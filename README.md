@@ -20,7 +20,7 @@ ForoHub es una API RESTful para la gestión de un foro de discusión, desarrolla
 
 1. Clona el repositorio:
    ```
-   git clone https://github.com/tu-usuario/forohub.git
+   git clone [https://github.com/tu-usuario/forohub.git](https://github.com/Xolot-32/ForoHub)
    cd forohub
    ```
 
